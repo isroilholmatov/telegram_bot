@@ -2,10 +2,10 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # 🔥 BU YERGA O'ZINGIZNING TOKENINGIZNI QO'YING
-TOKEN = "7058823314:AAEFuRC3e-xrIyc9kHO3lUjOQXhGYG1352E"
+TOKEN = "7527194109:AAH-wY_rFxqMAz0S4ff5pBJmW3lMwloGDX0"
 
 # 🔥 BU YERGA O'Z TELEGRAM ID-INGIZNI QO'YING (O'qituvchi)
-TEACHER_ID = 2049918772
+TEACHER_ID = 7096818115
 
 # ✅ /start buyrug'i
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
